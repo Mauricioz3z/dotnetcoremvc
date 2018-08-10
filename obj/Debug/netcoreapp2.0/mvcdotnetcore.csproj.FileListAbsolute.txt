@@ -1,0 +1,10 @@
+/mvcdotnetcore/bin/Debug/netcoreapp2.0/mvcdotnetcore.deps.json
+/mvcdotnetcore/bin/Debug/netcoreapp2.0/mvcdotnetcore.runtimeconfig.json
+/mvcdotnetcore/bin/Debug/netcoreapp2.0/mvcdotnetcore.runtimeconfig.dev.json
+/mvcdotnetcore/bin/Debug/netcoreapp2.0/mvcdotnetcore.dll
+/mvcdotnetcore/bin/Debug/netcoreapp2.0/mvcdotnetcore.pdb
+/mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.csproj.CoreCompileInputs.cache
+/mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.AssemblyInfoInputs.cache
+/mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.AssemblyInfo.cs
+/mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.dll
+/mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.pdb
