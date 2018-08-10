@@ -8,3 +8,14 @@
 /mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.AssemblyInfo.cs
 /mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.dll
 /mvcdotnetcore/obj/Debug/netcoreapp2.0/mvcdotnetcore.pdb
+C:\ASPNETPROJECTS\projetonetcore\bin\Debug\netcoreapp2.0\mvcdotnetcore.deps.json
+C:\ASPNETPROJECTS\projetonetcore\bin\Debug\netcoreapp2.0\mvcdotnetcore.runtimeconfig.json
+C:\ASPNETPROJECTS\projetonetcore\bin\Debug\netcoreapp2.0\mvcdotnetcore.runtimeconfig.dev.json
+C:\ASPNETPROJECTS\projetonetcore\bin\Debug\netcoreapp2.0\mvcdotnetcore.dll
+C:\ASPNETPROJECTS\projetonetcore\bin\Debug\netcoreapp2.0\mvcdotnetcore.pdb
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.csprojAssemblyReference.cache
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.csproj.CoreCompileInputs.cache
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.AssemblyInfoInputs.cache
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.AssemblyInfo.cs
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.dll
+C:\ASPNETPROJECTS\projetonetcore\obj\Debug\netcoreapp2.0\mvcdotnetcore.pdb
